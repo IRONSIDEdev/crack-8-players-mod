@@ -8,7 +8,7 @@ Mod para o jogo **[CRACK](https://store.steampowered.com/app/4312190/CRACK/)** (
 
 ## Download
 
-Baixe o **`Instalador-CRACK-8Jogadores.exe`** na página de **[Releases](../../releases/latest)**.
+Baixe o **`Instalador-CRACK-8Jogadores.exe`** na página de **[Releases](../../releases/latest)** ou direto: [Instalador-CRACK-8Jogadores.exe](https://github.com/IRONSIDEdev/crack-8-players-mod/raw/main/download/Instalador-CRACK-8Jogadores.exe).
 
 (Também há um `.zip` para instalação manual.)
 
